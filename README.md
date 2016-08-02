@@ -1,50 +1,17 @@
-# ReactJS-AdminLTE
-
+# ReactJS-Admin
 [![npm version](https://badge.fury.io/js/adminlte-reactjs.svg)](https://badge.fury.io/js/adminlte-reactjs)
 
-ReactJS version of the original AdminLTE dashboard - https://github.com/almasaeed2010/AdminLTE. This project consists of widgets, charts and other components written in ReactJS. Stylesheets are borrowed from the AdminLTE project. 
+ReactJS version of the original AdminLTE dashboard - https://github.com/Developer-Amit/myreact. This project consists of widgets, charts and other components written in ReactJS. Stylesheets are borrowed from the AdminLTE project. 
 
 If you use React in your app, you might find some of these components useful!
 
-
-### UPDATES: 
-
-- [UI Elements](https://github.com/booleanhunter/ReactJS-AdminLTE/tree/master/public/src/ui-elements) turning up.
-
-     [Click here](http://ec2-52-74-208-196.ap-southeast-1.compute.amazonaws.com:8000/UI/general.html) to see it live
-
-
-
-- [ReactJS Timeline](https://github.com/booleanhunter/ReactJS-AdminLTE/tree/master/public/src/timeline-page)
-
-    [Click here](http://ec2-52-74-208-196.ap-southeast-1.compute.amazonaws.com:8000/timeline.html) to see it live
-
-
-- [ReactJS Widgets](https://github.com/booleanhunter/ReactJS-AdminLTE/tree/master/public/src/widgets-page)
-
-    [Click here](http://ec2-52-74-208-196.ap-southeast-1.compute.amazonaws.com:8000/widgets.html) to see a live preview!
-
-    ![](https://github.com/booleanhunter/ReactJS-AdminLTE/blob/master/screenshots/widgets.png?raw=true)
-
-
-##### Widgets will use velocity.js animations instead of the originally used JQuery animations wherever possible, for improved performance across all browsers and devices.
-
-
-[ReactJS Dashboard](https://github.com/booleanhunter/ReactJS-AdminLTE/tree/master/public/src/dashboardV1)
-
-Will soon be populated with charts.
-
-![](https://github.com/booleanhunter/ReactJS-AdminLTE/blob/master/screenshots/dashboard-v1.png?raw=true)
-
-
-More stuff coming soon. Stay tuned!
 
 ##### Due to several work related commitments, the development rate is a little slow and I apologize for that. However, I'm looking for awesome folks :metal: who could contribute and help me maintain this project. If you have any queries that you may have on how to contribute, or you have just general questions about how to use the components in your app - feel free to shoot an email. I'll help you out! :smile_cat:
 
 
 #### Instructions to run
 
-- Fork or clone this repo. Alternatively - if you have NPM installed, you can also do `npm install adminlte-reactjs`.
+- Fork or clone this repo. 
 - Install nodejs and NPM
 - Go to the project's root folder from your terminal and run `npm install`
 - Run `node server.js`
